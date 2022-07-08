@@ -1,2 +1,2 @@
 # EvanPack
-This is the Evan Pack
+This is the Evan Pack by Evan. This pack is an addon to the texture pack Compliance and connot runb on its own. Go to https://faithfulpack.net/downloads to download the base pack for the version(s) you will be running.
