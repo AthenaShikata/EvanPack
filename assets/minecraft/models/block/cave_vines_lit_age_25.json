@@ -1,7 +1,6 @@
 {
-  "parent": "block/tinted_cross",
+  "parent": "minecraft:block/cross",
   "textures": {
-    "particle": "block/cave_vines_lit_age_25",
-    "cross": "block/cave_vines_lit_age_25"
+    "cross": "minecraft:block/cave_vines_lit_age_25"
   }
 }

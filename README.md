@@ -1,7 +1,7 @@
 # EvanPack
-This is the Evan Pack 2 by Evan. This pack is an addon to the texture pack Compliance and connot runb on its own. Go to https://faithfulpack.net/downloads to download the base pack for the version(s) you will be running.
+This is the Evan Pack by Evan. This pack is an addon to the Faithful texture pack (https://faithfulpack.net/downloads) and will not run properly without it.
 
 Requires fancy graphics on.
 
-For bugs and issues, report them in the issues section with the title format "EPversion MCversion issue" (ex "v1.0 1.18 sheep texture broken"). In the comment, describe the issue and any relevant information including probable causes and possible solutions.
+For bugs and issues, report them in the issues section with the title format "MCversion EPversion issue" (ex "1.18 v1.0 sheep texture broken"). In the comment, describe the issue and any relevant information including probable causes and possible solutions.
 

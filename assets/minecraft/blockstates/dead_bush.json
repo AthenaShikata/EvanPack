@@ -12,8 +12,7 @@
 			{ "model": "block/dead_bush/8", "weight": 3 },
 			{ "model": "block/dead_bush/9", "weight": 3 },
 			{ "model": "block/dead_bush/10", "weight": 2 },
-			{ "model": "block/dead_bush/11", "weight": 3 },
-			{ "model": "block/dead_bush/12", "weight": 1 }
+			{ "model": "block/dead_bush/11", "weight": 3 }
 	    ]
     }
 }

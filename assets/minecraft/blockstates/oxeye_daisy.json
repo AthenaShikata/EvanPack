@@ -3,7 +3,11 @@
         "": [
             { "model": "block/oxeye_daisy" },
             { "model": "block/oxeye_daisy/1" },
-            { "model": "block/oxeye_daisy/2" }
+            { "model": "block/oxeye_daisy/2" },
+			{ "model": "block/oxeye_daisy/3" },
+			{ "model": "block/oxeye_daisy/4" },
+			{ "model": "block/oxeye_daisy/5" },
+			{ "model": "block/oxeye_daisy/6" }
         ]
     }
 }

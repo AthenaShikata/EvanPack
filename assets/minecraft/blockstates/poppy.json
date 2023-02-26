@@ -8,7 +8,9 @@
 			{ "model": "block/poppy/4" },
 			{ "model": "block/poppy/5" },
 			{ "model": "block/poppy/6" },
-			{ "model": "block/poppy/7" }
+			{ "model": "block/poppy/7" },
+			{ "model": "block/poppy/8" },
+			{ "model": "block/poppy/9" }
         ]
     }
 }
