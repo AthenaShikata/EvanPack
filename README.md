@@ -1,5 +1,5 @@
 # EvanPack
-This is the Evan Pack by Evan. This pack is an addon to the Faithful texture pack (https://faithfulpack.net/downloads) and will not run properly without it.
+This is the Evan Pack by Evan. This pack is an addon to the Faithful texture pack (https://faithfulpack.net/downloads) and will not run properly without it. Put the Evan Pack above Faithful in the resource pack selector.
 
 Requires fancy graphics on.
 
