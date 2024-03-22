@@ -1,0 +1,11 @@
+{
+  "parent": "block/wall/inventory",
+  "textures": {
+    "wall": "block/deepslate_tiles",
+    "side_w": "block/deepslate_tiles",
+    "top_w": "block/deepslate_tiles",
+    "bottom_w": "block/deepslate_tiles",
+    "side_p": "block/wall/post_side/deepslate_tiles",
+    "top_p": "block/wall/post_top/deepslate_tiles"
+  }
+}

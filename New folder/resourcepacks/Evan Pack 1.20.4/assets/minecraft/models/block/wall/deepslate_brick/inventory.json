@@ -1,0 +1,11 @@
+{
+  "parent": "block/wall/inventory",
+  "textures": {
+    "wall": "block/deepslate_bricks",
+    "side_w": "block/deepslate_bricks",
+    "top_w": "block/deepslate_bricks",
+    "bottom_w": "block/deepslate_bricks",
+    "side_p": "block/wall/post_side/deepslate_bricks",
+    "top_p": "block/wall/post_top/deepslate_bricks"
+  }
+}

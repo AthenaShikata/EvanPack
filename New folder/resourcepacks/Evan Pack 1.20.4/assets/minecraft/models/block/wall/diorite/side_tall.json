@@ -1,0 +1,9 @@
+{
+  "parent": "block/wall/template_side_tall",
+  "textures": {
+    "wall": "block/diorite",
+    "side_w": "block/diorite",
+    "top_w": "block/diorite",
+    "bottom_w": "block/diorite"
+  }
+}

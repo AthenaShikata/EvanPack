@@ -1,0 +1,11 @@
+{
+  "parent": "block/wall/inventory",
+  "textures": {
+    "wall": "block/andesite",
+    "side_w": "block/andesite",
+    "top_w": "block/andesite",
+    "bottom_w": "block/andesite",
+    "side_p": "block/wall/post_side/andesite",
+    "top_p": "block/wall/post_top/andesite"
+  }
+}

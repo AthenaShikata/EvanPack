@@ -1,0 +1,33 @@
+{
+  "variants": {
+    "lit=false":
+    [{"model": "minecraft:block/cake/1/candle/pink", "weight": 100},
+      {"model": "minecraft:block/cake/2/candle/pink", "weight": 100},
+      {"model": "minecraft:block/cake/3/candle/pink", "weight": 100},
+      {"model": "minecraft:block/cake/4/candle/pink", "weight": 100},
+      {"model": "minecraft:block/cake/5/candle/pink", "weight": 100},
+      {"model": "minecraft:block/cake/6/candle/pink", "weight": 100},
+      {"model": "minecraft:block/cake/7/candle/pink", "weight": 100},
+      {"model": "minecraft:block/cake/8/candle/pink", "weight": 100},
+      {"model": "minecraft:block/cake/9/candle/pink", "weight": 100},
+      {"model": "minecraft:block/cake/10/candle/pink", "weight": 100},
+      {"model": "minecraft:block/cake/11/candle/pink", "weight": 100},
+      {"model": "minecraft:block/cake/12/candle/pink", "weight": 100},
+      {"model": "minecraft:block/cake/13/candle/pink", "weight": 10}],
+    
+      "lit=true":
+      [{"model": "minecraft:block/cake/1/candle/pink_lit", "weight": 100},
+        {"model": "minecraft:block/cake/2/candle/pink_lit", "weight": 100},
+        {"model": "minecraft:block/cake/3/candle/pink_lit", "weight": 100},
+        {"model": "minecraft:block/cake/4/candle/pink_lit", "weight": 100},
+        {"model": "minecraft:block/cake/5/candle/pink_lit", "weight": 100},
+        {"model": "minecraft:block/cake/6/candle/pink_lit", "weight": 100},
+        {"model": "minecraft:block/cake/7/candle/pink_lit", "weight": 100},
+        {"model": "minecraft:block/cake/8/candle/pink_lit", "weight": 100},
+        {"model": "minecraft:block/cake/9/candle/pink_lit", "weight": 100},
+        {"model": "minecraft:block/cake/10/candle/pink_lit", "weight": 100},
+        {"model": "minecraft:block/cake/11/candle/pink_lit", "weight": 100},
+        {"model": "minecraft:block/cake/12/candle/pink_lit", "weight": 100},
+        {"model": "minecraft:block/cake/13/candle/pink_lit", "weight": 10}]
+  }
+}

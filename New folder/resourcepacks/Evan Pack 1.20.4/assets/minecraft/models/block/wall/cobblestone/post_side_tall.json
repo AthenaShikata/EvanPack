@@ -1,0 +1,9 @@
+{
+  "parent": "block/wall/template_post_side_tall",
+  "textures": {
+    "wall": "block/cobblestone",
+    "side_w": "block/cobblestone",
+    "top_w": "block/cobblestone",
+    "bottom_w": "block/cobblestone"
+  }
+}

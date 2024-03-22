@@ -1,0 +1,33 @@
+{
+  "variants": {
+    "lit=false":
+    [{"model": "minecraft:block/cake/1/candle/candle", "weight": 100},
+      {"model": "minecraft:block/cake/2/candle/candle", "weight": 100},
+      {"model": "minecraft:block/cake/3/candle/candle", "weight": 100},
+      {"model": "minecraft:block/cake/4/candle/candle", "weight": 100},
+      {"model": "minecraft:block/cake/5/candle/candle", "weight": 100},
+      {"model": "minecraft:block/cake/6/candle/candle", "weight": 100},
+      {"model": "minecraft:block/cake/7/candle/candle", "weight": 100},
+      {"model": "minecraft:block/cake/8/candle/candle", "weight": 100},
+      {"model": "minecraft:block/cake/9/candle/candle", "weight": 100},
+      {"model": "minecraft:block/cake/10/candle/candle", "weight": 100},
+      {"model": "minecraft:block/cake/11/candle/candle", "weight": 100},
+      {"model": "minecraft:block/cake/12/candle/candle", "weight": 100},
+      {"model": "minecraft:block/cake/13/candle/candle", "weight": 10}],
+    
+      "lit=true":
+      [{"model": "minecraft:block/cake/1/candle/candle_lit", "weight": 100},
+        {"model": "minecraft:block/cake/2/candle/candle_lit", "weight": 100},
+        {"model": "minecraft:block/cake/3/candle/candle_lit", "weight": 100},
+        {"model": "minecraft:block/cake/4/candle/candle_lit", "weight": 100},
+        {"model": "minecraft:block/cake/5/candle/candle_lit", "weight": 100},
+        {"model": "minecraft:block/cake/6/candle/candle_lit", "weight": 100},
+        {"model": "minecraft:block/cake/7/candle/candle_lit", "weight": 100},
+        {"model": "minecraft:block/cake/8/candle/candle_lit", "weight": 100},
+        {"model": "minecraft:block/cake/9/candle/candle_lit", "weight": 100},
+        {"model": "minecraft:block/cake/10/candle/candle_lit", "weight": 100},
+        {"model": "minecraft:block/cake/11/candle/candle_lit", "weight": 100},
+        {"model": "minecraft:block/cake/12/candle/candle_lit", "weight": 100},
+        {"model": "minecraft:block/cake/13/candle/candle_lit", "weight": 10}]
+  }
+}

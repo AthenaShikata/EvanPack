@@ -1,9 +1,9 @@
 # EvanPack
 This is the Evan Pack by Evan. This pack is an addon to the Faithful texture pack (https://faithfulpack.net/downloads) and will not run properly without it. Put the Evan Pack above Faithful in the resource pack selector.
 
-I OWN NONE OF THIS ART AND DO NOT CLAIM TO, but too few people use this and I'm too lazy to properly attribute other than to link Faithful Addons (https://faithfulpack.net/addons#/) and Vanilla Tweaks (https://vanillatweaks.net/). Some of these addons are legacy and were taken from previous versions of the pack and the original could not be found. All the new addons are in the Sources folder. Many of these addons were only partially used and many are not compatible with eachother without manual effort.
+I OWN NONE OF THIS ART AND DO NOT CLAIM TO. If I have proper documentation, it is in the release file. But too few people use this and I've been too lazy/negligent to properly attribute other than to link Faithful Addons (https://faithfulpack.net/addons#/) and Vanilla Tweaks (https://vanillatweaks.net/). Some of these addons are legacy and were taken from previous versions of the pack and the original could not be found. All the new addons are in the Sources folder. Many of these addons were only partially used and many are not compatible with eachother without manual effort.
 
-Requires fancy graphics on.
-Requires Optifine or Optifine Alternatives for Fabric (https://lambdaurora.dev/optifine_alternatives/). You will need Continuity, CIT Resewn, Custom Entity Models, and Entity Texture Features (Iris Shaders Recommended)
+Requires fancy graphics on?
+Requires Optifine or Optifine Alternatives for Fabric (https://lambdaurora.dev/optifine_alternatives/). For Optifine Alternatives, you will need Continuity, CIT Resewn (not working in 1.20.4), Entity Model Features, and Entity Texture Features (Iris Shaders Recommended)
 
 For bugs and issues, report them in the issues section with the title format "MCversion EPversion issue" (ex "1.18 v1.0 sheep texture broken"). In the comment, describe the issue and any relevant information including probable causes and possible solutions.

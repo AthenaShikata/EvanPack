@@ -1,0 +1,11 @@
+{
+  "parent": "block/wall/inventory",
+  "textures": {
+    "wall": "block/polished_blackstone_bricks",
+    "side_w": "block/polished_blackstone_bricks",
+    "top_w": "block/polished_blackstone_bricks",
+    "bottom_w": "block/polished_blackstone_bricks",
+    "side_p": "block/wall/post_side/polished_blackstone_bricks",
+    "top_p": "block/wall/post_top/polished_blackstone_bricks"
+  }
+}

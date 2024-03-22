@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/acacia_button_inventory",
+	"textures": {
+		"0": "block/jungle_button",
+		"1": "block/jungle_log"
+
+	}
+}

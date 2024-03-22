@@ -1,0 +1,7 @@
+{
+	"parent": "block/cake/1/slice3",
+	"textures": {
+		"all": "block/cake/4",
+		"particle": "block/break/cake"
+	}
+}

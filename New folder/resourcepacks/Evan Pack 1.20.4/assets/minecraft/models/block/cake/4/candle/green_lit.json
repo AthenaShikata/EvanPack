@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cake/4/candle",
+  "textures": {
+    "candle": "minecraft:block/green_candle_lit"
+  }
+}

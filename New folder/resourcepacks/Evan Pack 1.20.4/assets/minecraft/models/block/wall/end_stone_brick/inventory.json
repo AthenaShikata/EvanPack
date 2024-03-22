@@ -1,0 +1,11 @@
+{
+  "parent": "block/wall/inventory",
+  "textures": {
+    "wall": "block/end_stone_bricks",
+    "side_w": "block/end_stone_bricks",
+    "top_w": "block/end_stone_bricks",
+    "bottom_w": "block/end_stone_bricks",
+    "side_p": "block/wall/post_side/end_stone_bricks",
+    "top_p": "block/wall/post_top/end_stone_bricks"
+  }
+}

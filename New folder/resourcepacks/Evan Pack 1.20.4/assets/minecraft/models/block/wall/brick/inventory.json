@@ -1,0 +1,11 @@
+{
+  "parent": "block/wall/inventory",
+  "textures": {
+    "wall": "block/bricks",
+    "side_w": "block/bricks",
+    "top_w": "block/bricks",
+    "bottom_w": "block/bricks",
+    "side_p": "block/wall/post_side/bricks",
+    "top_p": "block/wall/post_top/bricks"
+  }
+}

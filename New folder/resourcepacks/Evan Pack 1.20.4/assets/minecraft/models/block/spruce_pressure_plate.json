@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/acacia_pressure_plate",
+	"textures": {
+		"0": "block/spruce_pressure_plate",
+		"1": "block/spruce_log",
+		"3": "block/spruce_pressure_plate_bottom",
+		"particle": "block/break/spruce_pressure_plate"
+	}
+}

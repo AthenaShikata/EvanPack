@@ -1,0 +1,55 @@
+{
+  "multipart": [
+    {"when": {"up": "true"},"apply":
+      {"model": "block/wall/stone_brick/post"}},
+
+    {"when": {"north": "low","up": "false"},"apply":
+      {"model": "block/wall/stone_brick/side","uvlock": true}},
+
+    {"when": {"east": "low","up": "false"},"apply":
+      {"model": "block/wall/stone_brick/side","y": 90,"uvlock": true}},
+
+    {"when": {"south": "low","up": "false"},"apply":
+      {"model": "block/wall/stone_brick/side","y": 180,"uvlock": true}},
+
+    {"when": {"west": "low","up": "false"},"apply":
+      {"model": "block/wall/stone_brick/side","y": 270,"uvlock": true}},
+
+    {"when": {"north": "tall","up": "false"},"apply":
+      {"model": "block/wall/stone_brick/side_tall","uvlock": true}},
+    
+    {"when": {"east": "tall","up": "false"},"apply":
+      {"model": "block/wall/stone_brick/side_tall","y": 90,"uvlock": true}},
+
+    {"when": {"south": "tall","up": "false"},"apply":
+      {"model": "block/wall/stone_brick/side_tall","y": 180,"uvlock": true}},
+    
+    {"when": {"west": "tall","up": "false"},"apply":
+      {"model": "block/wall/stone_brick/side_tall","y": 270,"uvlock": true}},
+
+      {"when": {"north": "low","up": "true"},"apply":
+        {"model": "block/wall/stone_brick/post_side","uvlock": true}},
+  
+      {"when": {"east": "low","up": "true"},"apply":
+        {"model": "block/wall/stone_brick/post_side","y": 90,"uvlock": true}},
+  
+      {"when": {"south": "low","up": "true"},"apply":
+        {"model": "block/wall/stone_brick/post_side","y": 180,"uvlock": true}},
+  
+      {"when": {"west": "low","up": "true"},"apply":
+        {"model": "block/wall/stone_brick/post_side","y": 270,"uvlock": true}},
+  
+      {"when": {"north": "tall","up": "true"},"apply":
+        {"model": "block/wall/stone_brick/post_side_tall","uvlock": true}},
+      
+      {"when": {"east": "tall","up": "true"},"apply":
+        {"model": "block/wall/stone_brick/post_side_tall","y": 90,"uvlock": true}},
+  
+      {"when": {"south": "tall","up": "true"},"apply":
+        {"model": "block/wall/stone_brick/post_side_tall","y": 180,"uvlock": true}},
+      
+      {"when": {"west": "tall","up": "true"},"apply":
+        {"model": "block/wall/stone_brick/post_side_tall","y": 270,"uvlock": true}}
+
+  ]
+}

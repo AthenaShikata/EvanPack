@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/acacia_button_pressed90",
+	"textures": {
+		"0": "block/crimson_button",
+		"1": "block/crimson_stem",
+		"particle": "block/break/crimson_button"
+	}
+}

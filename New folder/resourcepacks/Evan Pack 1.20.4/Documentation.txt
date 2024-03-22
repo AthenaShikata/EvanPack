@@ -1,0 +1,128 @@
+Evan Pack 1.20.4 Documentation (95% complete at least. Some changes to this document and the source folder were lost and had to be reconstructed, so there's a chance something got missed)
+
+
+Faithful Addons
+
+1.20.2 - Animated XP Bar - https://faithfulpack.net/addons/1202AnimatedXPBar - All
+2D Bed Icons - https://faithfulpack.net/addons/2d-bed-icons - All
+Alex Zombies - https://faithfulpack.net/addons/ZombieAlexs - All - Removed extra pixel on Alex zombie
+Alternative Environment (64x) - https://faithfulpack.net/addons/AlternativeEnvironment -  Kept allium, azure bulet, blue orchid, brewing stand, brown mushroom, cobweb, cornflower, crimson fungus, dandelion, dead bush, grass block top overlay, lilac, lily of the valley, lily pad, nether sprouts, tulip, oxeye daisy, peony, poppy, red mushroom, rose bush, sea pickle, sunflower, sweet berry bush, warped fungus
+Animated Amethyst Clusters - https://faithfulpack.net/addons/AnimatedAmethystClusters - All - Added emissive texture
+Arabic Numerals - https://faithfulpack.net/addons/ArabicNumerals - All - Combined in the en_us language file
+Big Dripleaf Fix - https://faithfulpack.net/addons/BigDripleafFix - All
+Blockstate Indicators - https://faithfulpack.net/addons/Blockstates - All - Hopper code and some textures - Target code only - Changed daylight sensor sides to display a number based on redstone utilities addon - Removed  textures and code - Dispenser and Dropper front textures and blockstates - Removed sugarcane, redstone ore, beehive, bee nest,  textures and code
+Branch Sticks - https://faithfulpack.net/addons/Branch - Texture only
+Broken Elytras - https://faithfulpack.net/addons/broken-elytras - All
+Bushy Leaves - https://faithfulpack.net/addons/BushyLeaves - All
+Cake Variation - https://faithfulpack.net/addons/cake - All - Removed item models
+Campfire Recreation - https://faithfulpack.net/addons/campfire - All
+Carpet Overhaul - https://faithfulpack.net/addons/carpet - Textures and CTM - Copied the code to apply textures and connected textures to wool - Removed model files as they are now redundant 
+Chiseled Deepslate Warden - https://faithfulpack.net/addons/ChiseledDeepslateWarden - All
+Color Corkination - https://faithfulpack.net/addons/color-corkination - All - Removed suspicious stew (Broken) and thick potion emissive - Created 32x mundane, thick, and awkward splash and lingering potions from regular potion files
+Colored Bow Charging - https://faithfulpack.net/addons/ChargingBows - Changed the indicator colors to be more vibrant
+Colored Sheep - https://faithfulpack.net/addons/colored-sheep-head - 
+Connected Textures Extended - https://faithfulpack.net/addons/ConnectedTexturesExtended - All - Added emissive textures for redstone block, redstone lamp on, and sea lantern - Changed the netherite block and diamond block textures to match the better netherite and purple diamonds addons
+Copper Chainmail Armor - https://faithfulpack.net/addons/CopperChainmailArmor - All - Combined in the en_us language file
+Dark UI - https://faithfulpack.net/addons/dark-ui - All - Ran the pack through Mojang's slicer to convert to new gui format
+Deepslate Ore Top Textures - https://faithfulpack.net/addons/deepslate-ore-top-textures - All - Made diamond ore purple to match the purple diamonds addon and added emissive texture
+Different Stems - https://faithfulpack.net/addons/DifferentStems - All
+Directional Dropper+Dispenser - https://faithfulpack.net/addons/DirectionalDropperDispenser - All - Made custom dispenser_top.png using faithful textures - Added triggered model files
+Directional Hopper+Bottom Fix - https://faithfulpack.net/addons/DirectionalHopperBottomFix - Only textures - Made custom hopper_outside.png from faithful textures
+Distinct Rabbits - https://faithfulpack.net/addons/better-rabbit-distinction - All
+Drooping Moss Carpet - https://faithfulpack.net/addons/Moscarpet - All
+Emissives - https://faithfulpack.net/addons/emissive-compliance - Chose each texture individually - Removed sculk shreiker inside top texture, redstone lamp, redstone block, and sea lantern texture
+Faithfully Emissive - https://faithfulpack.net/addons/FaithfulEmissiveFaihtful - Chose each texture individually - Removed sculk shreiker inside top texture, redstone lamp, redstone block, and sea lantern texture
+Fences Overhaul - https://faithfulpack.net/addons/fence - All - Edited the crimson fence and gate colors to match the red crimson wood addon
+Gilded Blackstone Top - https://faithfulpack.net/addons/GildedBlackstoneTop - All - Fixed bug, renamed blackstone.json model file to gilded_blackstone.json
+Glowing Ore - https://faithfulpack.net/addons/new-emissive-ores - All - Made diamond ores and items purple to match the purple diamonds addonMade diamond ores and items purple to match the purple diamonds addon
+Grass Overhaul - https://faithfulpack.net/addons/grass - 
+GUI Tweaks Masterpack - https://faithfulpack.net/addons/gui-tweaks-masterpack - All - Made the icons purple to match purple diamonds addon and added rainbow xp bar - Ran the pack through Mojang's slicer to convert to new gui format
+GUIdes - https://faithfulpack.net/addons/GUIdes - All - Combined in the en_us language file and default font file
+Gold and Diamonds in Netherite - https://faithfulpack.net/addons/BetterNetherite - Only the outer ring of gold in netherite block
+Hardcore Heart Totems - https://faithfulpack.net/addons/HardcoreHeartTotems - All - Added emissive texture
+Hunger Preview - https://faithfulpack.net/addons/HungerPreview32x - All - Combined in the en_us language file
+Jappa Spawn Eggs - https://faithfulpack.net/addons/jappa-spawn-eggs - All
+Jappa's V3 Planks - https://faithfulpack.net/addons/jappa's-v3-planks - All - Edited the crimson planks color to match the red crimson wood addon
+Loaded Crossbows - https://faithfulpack.net/addons/loaded-crossbows - All
+Long Grass - https://faithfulpack.net/addons/LongGrass - 
+Minecraft Earth Chickens - https://faithfulpack.net/addons/MinecraftEarthChicken - All - Removed default chicken texture (redundant with faithful pack)
+Minecraft Earth Cows - https://faithfulpack.net/addons/MinecraftEarthCows - All - Removed default cow and mooshroom textures (redundant with faithful pack)
+Minecraft Earth Pigs - https://faithfulpack.net/addons/MinecraftEarthPigs - All - Removed default pig texture (redundant with faithful pack)
+Natural Tools - https://faithfulpack.net/addons/better-natural-tools - All
+New Faithful Overlays - https://faithfulpack.net/addons/NewFaithfulOverlays - 
+Nicer Fast Leaves - https://faithfulpack.net/addons/NicerFastLeaves - All 
+Not Impactful Low Fire - https://faithfulpack.net/addons/NotImpactfulLowFire - All
+Old Minecraft Logo - https://faithfulpack.net/addons/OldMinecraftLogo - All
+Ore Borders - https://faithfulpack.net/addons/ore-borders - 
+Plants+ - https://faithfulpack.net/addons/Plants - 
+Polished Chests - https://faithfulpack.net/addons/polished-chests - All - Made trapped chests more pronouced
+Powder Snow Detector - https://faithfulpack.net/addons/PowderSnowDetector - All
+Pressure Overhaul - https://faithfulpack.net/addons/pressure - All - Edited the crimson pressure plate and button color to match the red crimson wood addon
+Purple Diamonds - https://faithfulpack.net/addons/purple-diamonds - All - Combined purple diamond enchantment table with fancy enchantment table addon - Added purple ores and emissive textures to match deepslate ore tops and glowing ore addons - Edited the armor to match the square shoulders of the other chestplates
+Red Crimson Color - https://faithfulpack.net/addons/red-crimson-color - All - Replaced crimson wood planks with modified Jappa v3 planks - Modified original hanging sign texture to match this addon
+Redstone Utilities - https://faithfulpack.net/addons/redstone-utilities - Modified code only
+Sapling Seeds - https://faithfulpack.net/addons/sapling-seeds - 
+Sculk Overhaul - https://faithfulpack.net/addons/sculksensor - All
+Signs Overhaul - https://faithfulpack.net/addons/bettersigns - All - Edited the crimson signs color to match the red crimson wood addon - Removed custom item models and texture
+Small Bee - https://faithfulpack.net/addons/smallbeeoptifine - All
+Splash Experience Bottle - https://faithfulpack.net/addons/SplashExperienceBottle - All - Added emissive texture
+Sticky Piston Sides - https://faithfulpack.net/addons/StickyPistonSides - All
+Strengthen Ladder - https://faithfulpack.net/addons/StrengthenLadder - All
+Unique Goat Horns - https://faithfulpack.net/addons/GoatHornsPlus - All
+Unique Powders - https://faithfulpack.net/addons/uniquepowder - All
+Visible Age - https://faithfulpack.net/addons/age - 
+Visual Banner Pattern Items - https://faithfulpack.net/addons/VisualBannerPatternItems - All
+Visual Explorer Maps - https://faithfulpack.net/addons/VisualExplorerMaps - All
+Visual Honey Stages - https://faithfulpack.net/addons/VisualHoneyStages - All
+Visual Infested - https://faithfulpack.net/addons/betterinfested - All
+Visual Max-Stage Kelp+Vines - https://faithfulpack.net/addons/VisualMax-StageKelpVines - 
+Visual Note - https://faithfulpack.net/addons/note - All
+Visual Scaffolding - https://faithfulpack.net/addons/VisualScaffolding - All - Edited scaffold netting to make it less obstructive
+Visualized Enchanted Books - https://faithfulpack.net/addons/VisualizedEnchantedBooks - All
+Wall Overhaul - https://faithfulpack.net/addons/wall - All
+
+
+
+Vanilla Tweaks - https://vanillatweaks.net/picker/resource-packs/
+
+HD Shield Banner Patterns - All
+Plain Leather Armor - Model overlay textures only
+Visual Waxed Copper - Code only - Custom waxed textures
+Unobtrusive Enchantment Glint - All - Added emissive
+No Vignette - All
+Invisible Totem - All
+
+Wrench Resource Pack - Code - Colors - Combined in the en_us language file
+
+
+
+Other Sources
+
+Wrench - https://www.google.com/url?sa=i&url=https%3A%2F%2Fminecraft.novaskin.me%2Fgallery%2Ftag%2Fwrench%3Fnext%3DCjoKFAoHaG90bmVzcxIJIXE486t5RIdAEh5qDHN-c2tpbmVkaXRvcnIOCxIEU2tpbhiFkPiqCgwYACAB&psig=AOvVaw0tO9RQO3NcI40hXB2Efs6S&ust=1710277546324000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD9_72O7YQDFQAAAAAdAAAAABAE - Changed colors
+
+
+
+Lost/Previous Packs
+
+Mob Wings x32 - All
+Rainbow Jeb Name Tag - All
+Molten Anvil - Added the molten part of the texture to new faithful anvil top
+Red Iron Golem Flowers - All
+Unique Dyes - Only gray, lime, magenta, pink and purple
+Better Netherite - All - Made the diamonds purple - Matched the original gold and diamond texture to the new faithful netherite textures and modified when needed - Added gold to the netherite block from the Gold and Diamonds in Netherite addon
+
+Variated Magma - All - Changed soul soil and sand emissive - Fixed soul sand?
+
+Target Power - Textures only 
+Rainbow XP Bar - All
+Visual Trapped Chests - The red outline only 
+Target Level Display - Textures only - Renamed files to match block state indicators addon
+Clean Bedrock - All
+
+
+
+Custom/Modifications
+
+Transluscent Faithful Pumpkin Overlay
+Transluscent Faithful Spyglass Overlay
+Repeater Top Textures

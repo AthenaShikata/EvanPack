@@ -1,0 +1,11 @@
+{
+  "parent": "block/wall/inventory",
+  "textures": {
+    "wall": "block/prismarine",
+    "side_w": "block/prismarine",
+    "top_w": "block/prismarine",
+    "bottom_w": "block/prismarine",
+    "side_p": "block/wall/post_side/prismarine",
+    "top_p": "block/wall/post_top/prismarine"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/wall/template_post_side_tall",
+  "textures": {
+    "wall": "block/packed_mud",
+    "side_w": "block/packed_mud",
+    "top_w": "block/packed_mud",
+    "bottom_w": "block/packed_mud"
+  }
+}

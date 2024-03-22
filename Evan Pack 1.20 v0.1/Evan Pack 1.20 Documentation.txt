@@ -1,0 +1,111 @@
+Faithful Addons
+
+Vanilla Tweaks Wrench Resource Pack
+2D Bed Icons https://faithfulpack.net/addons/2d-bed-icons
+Alternative Environment https://faithfulpack.net/addons/AlternativeEnvironment
+Animated Amethyst Clusters https://faithfulpack.net/addons/AnimatedAmethystClusters
+Arabic Numerals https://faithfulpack.net/addons/ArabicNumerals
+Big Drip Leaf Fix https://faithfulpack.net/addons/BigDripleafFix
+Branch Stick https://faithfulpack.net/addons/Branch
+Broken Elytras https://faithfulpack.net/addons/broken-elytras
+Bushy Leaves https://faithfulpack.net/addons/BushyLeaves
+Chiseled Deepslate Warden https://faithfulpack.net/addons/ChiseledDeepslateWarden
+Color Corkination https://faithfulpack.net/addons/color-corkination
+Colored Bow Charging https://faithfulpack.net/addons/ChargingBows
+Colored Sheep https://faithfulpack.net/addons/colored-sheep-head
+Connected Textures Extended https://faithfulpack.net/addons/ConnectedTexturesExtended
+Copper Chainmail Armor https://faithfulpack.net/addons/CopperChainmailArmor
+Dark Blackstone Complete https://faithfulpack.net/addons/DarkBlackstoneComplete
+Dark UI https://faithfulpack.net/addons/dark-ui
+Deepslate Ore Top Textures https://faithfulpack.net/addons/deepslate-ore-top-textures
+Distinct Rabbits https://faithfulpack.net/addons/better-rabbit-distinction
+Faithfully Emissive https://faithfulpack.net/addons/FaithfulEmissiveFaihtful
+Fences Overhaul https://faithfulpack.net/addons/fence
+Gilded Blackstone Top https://faithfulpack.net/addons/GildedBlackstoneTop
+Glowing Ore https://faithfulpack.net/addons/new-emissive-ores
+GUI Tweaks Masterpack https://faithfulpack.net/addons/gui-tweaks-masterpack
+GUIdes https://faithfulpack.net/addons/GUIdes
+Hardcore Heart Totems https://faithfulpack.net/addons/HardcoreHeartTotems
+Hunger Preview https://faithfulpack.net/addons/HungerPreview32x
+Jappa Spawn Eggs https://faithfulpack.net/addons/jappa-spawn-eggs
+Jappa's V3 Planks https://faithfulpack.net/addons/jappa's-v3-planks
+Long Grass https://faithfulpack.net/addons/LongGrass
+New Faithful Overlays https://faithfulpack.net/addons/NewFaithfulOverlays
+Nicer Fast Leaves https://faithfulpack.net/addons/NicerFastLeaves
+Not Impactful Low Fire https://faithfulpack.net/addons/NotImpactfulLowFire
+Plants+ https://faithfulpack.net/addons/Plants
+Polished Chests https://faithfulpack.net/addons/polished-chests
+Powder Snow Detector https://faithfulpack.net/addons/PowderSnowDetector
+Purple Diamonds https://faithfulpack.net/addons/purple-diamonds
+Realistic Stone Tools https://faithfulpack.net/addons/RealisticStoneTools
+Realistic Wooden Tools https://faithfulpack.net/addons/BetterWoodenTools
+Red Crimson Color https://faithfulpack.net/addons/red-crimson-color
+Redstone Utilities https://faithfulpack.net/addons/redstone-utilities
+Splash Experience Bottle https://faithfulpack.net/addons/SplashExperienceBottle
+Strengthen Ladder https://faithfulpack.net/addons/StrengthenLadder
+Unique Goat Horns https://faithfulpack.net/addons/GoatHornsPlus
+Unique Powders https://faithfulpack.net/addons/uniquepowder 
+Visible Age https://faithfulpack.net/addons/age
+Visual Banner Pattern Items https://faithfulpack.net/addons/VisualBannerPatternItems
+Visual Explorer Maps https://faithfulpack.net/addons/VisualExplorerMaps
+Visual Honey Stages https://faithfulpack.net/addons/VisualHoneyStages
+Visual Infested https://faithfulpack.net/addons/betterinfested
+Visual Note https://faithfulpack.net/addons/note
+Visualized Enchanted Books https://faithfulpack.net/addons/VisualizedEnchantedBooks
+
+
+Vanilla Tweaks
+
+HD Shield Banner Patterns
+Unobtrusive Enchantment Glint
+No Vignette
+Invisible Totem
+Visual Waxed Copper (Code)
+
+
+Unknown/Lost
+
+	More Elytras
+	Red Iron Golem Flowers
+	Better Wool
+	Fancy Enchantment Table
+	Molten Anvil
+	Variated Magma Blocks
+	Netherite Armor and Tools and Ingot
+	Netherwart Growth Stages
+	Powered Target Block
+	No Brown Leather
+	sun moon rain snow
+	locked and directional hopper
+	emmisive splash bottle o enchanting
+	emmisive heart totem eyes
+	
+
+
+Original Modifications
+
+	Different Melon/Pumpkin Stems
+	Visual Waxed Copper (Textures)
+	Trapped Polished Chests
+	Purple Diamond Deepslate Ore Top
+	Purple Diamond Fancy Enchantment Table
+	Unobstructive Scafolding
+	un branching the branch stick
+	Translucent Pumpkin Overlay
+	red crimsonV3 jappa planks
+	fence overhaul red crimson wood
+	blindness suspicious stew
+	glowing deepslate ore tops
+
+	
+	
+	
+to do 
+
+arabic numerals broken
+GUIdes broken
+hunger preview broken
+new spawn eggs broken
+alternate environment
+better low fire
+dragon death lights broken (shaders?)

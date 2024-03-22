@@ -1,0 +1,10 @@
+{
+"variants":{
+"":
+[{"model":"minecraft:block/infested/cobblestone/1"},
+{"model":"minecraft:block/infested/cobblestone/2"},
+{"model":"minecraft:block/infested/cobblestone/3"},
+{"model":"minecraft:block/infested/cobblestone/4"},
+{"model":"minecraft:block/infested/cobblestone/5"}]
+}
+}

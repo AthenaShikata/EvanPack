@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall/template_post",
+  "textures": {
+    "wall": "block/diorite",
+    "side_p": "block/wall/post_side/diorite",
+    "top_p": "block/wall/post_top/diorite"
+  }
+}

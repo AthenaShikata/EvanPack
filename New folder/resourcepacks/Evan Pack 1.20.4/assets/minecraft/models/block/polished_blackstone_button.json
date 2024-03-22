@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/acacia_button",
+	"textures": {
+		"0": "block/blackstone_button",
+		"1": "block/blackstone",
+		"particle": "block/break/blackstone_button"
+			}
+		}

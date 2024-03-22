@@ -1,0 +1,11 @@
+{
+  "parent": "block/wall/inventory",
+  "textures": {
+    "wall": "block/diorite",
+    "side_w": "block/diorite",
+    "top_w": "block/diorite",
+    "bottom_w": "block/diorite",
+    "side_p": "block/wall/post_side/diorite",
+    "top_p": "block/wall/post_top/diorite"
+  }
+}
