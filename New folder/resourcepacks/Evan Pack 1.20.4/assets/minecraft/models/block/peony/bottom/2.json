@@ -1,7 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "particle": "block/peony_bottom2",
-        "cross": "block/peony_bottom2"
-    }
-}

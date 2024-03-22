@@ -1,9 +1,0 @@
-{
-  "parent": "block/wall/template_post_side_tall",
-  "textures": {
-    "wall": "block/nether_bricks",
-    "side_w": "block/nether_bricks",
-    "top_w": "block/nether_bricks",
-    "bottom_w": "block/nether_bricks"
-  }
-}

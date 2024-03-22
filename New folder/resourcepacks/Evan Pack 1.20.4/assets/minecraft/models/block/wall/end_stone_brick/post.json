@@ -1,8 +1,0 @@
-{
-  "parent": "block/wall/template_post",
-  "textures": {
-    "wall": "block/end_stone_bricks",
-    "side_p": "block/wall/post_side/end_stone_bricks",
-    "top_p": "block/wall/post_top/end_stone_bricks"
-  }
-}

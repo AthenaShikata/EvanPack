@@ -1,9 +1,0 @@
-{
-  "parent": "block/wall/template_post_side_tall",
-  "textures": {
-    "wall": "block/deepslate_tiles",
-    "side_w": "block/deepslate_tiles",
-    "top_w": "block/deepslate_tiles",
-    "bottom_w": "block/deepslate_tiles"
-  }
-}

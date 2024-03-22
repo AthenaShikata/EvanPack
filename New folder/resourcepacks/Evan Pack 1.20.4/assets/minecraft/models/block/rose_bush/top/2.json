@@ -1,7 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "particle": "block/rose_bush_top2",
-        "cross": "block/rose_bush_top2"
-    }
-}

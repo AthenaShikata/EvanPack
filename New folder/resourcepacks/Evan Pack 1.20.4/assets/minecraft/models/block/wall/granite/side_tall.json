@@ -1,9 +1,0 @@
-{
-  "parent": "block/wall/template_side_tall",
-  "textures": {
-    "wall": "block/granite",
-    "side_w": "block/granite",
-    "top_w": "block/granite",
-    "bottom_w": "block/granite"
-  }
-}

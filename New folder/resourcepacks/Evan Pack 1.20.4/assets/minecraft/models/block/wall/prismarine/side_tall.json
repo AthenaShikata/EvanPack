@@ -1,9 +1,0 @@
-{
-  "parent": "block/wall/template_side_tall",
-  "textures": {
-    "wall": "block/prismarine",
-    "side_w": "block/prismarine",
-    "top_w": "block/prismarine",
-    "bottom_w": "block/prismarine"
-  }
-}

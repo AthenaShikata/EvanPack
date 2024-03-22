@@ -1,9 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "block/acacia_button90",
-	"textures": {
-		"0": "block/mangrove_button",
-		"1": "block/mangrove_log",
-		"particle": "block/break/mangrove_button"
-			}
-		}
